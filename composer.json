@@ -1,0 +1,12 @@
+{
+    "name": "jite/jesus",
+    "description": "A PHP A application for booking.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
